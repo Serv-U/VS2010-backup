@@ -1,0 +1,11 @@
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\SolutionsMagentoSync\SolutionsMagentoSync\bin\Debug\SolutionsMagentoSync.exe.config
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\SolutionsMagentoSync\SolutionsMagentoSync\bin\Debug\SolutionsMagentoSync.exe
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\SolutionsMagentoSync\SolutionsMagentoSync\bin\Debug\SolutionsMagentoSync.pdb
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\SolutionsMagentoSync\SolutionsMagentoSync\bin\Debug\SolutionsMagentoSync.xml
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\SolutionsMagentoSync\SolutionsMagentoSync\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\SolutionsMagentoSync\SolutionsMagentoSync\obj\x86\Debug\SolutionsMagentoSync.Resources.resources
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\SolutionsMagentoSync\SolutionsMagentoSync\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\SolutionsMagentoSync\SolutionsMagentoSync\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\SolutionsMagentoSync\SolutionsMagentoSync\obj\x86\Debug\SolutionsMagentoSync.exe
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\SolutionsMagentoSync\SolutionsMagentoSync\obj\x86\Debug\SolutionsMagentoSync.xml
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\SolutionsMagentoSync\SolutionsMagentoSync\obj\x86\Debug\SolutionsMagentoSync.pdb

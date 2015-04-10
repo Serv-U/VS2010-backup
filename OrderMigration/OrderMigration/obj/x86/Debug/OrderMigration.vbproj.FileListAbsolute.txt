@@ -1,0 +1,11 @@
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\OrderMigration\OrderMigration\bin\Debug\OrderMigration.exe.config
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\OrderMigration\OrderMigration\bin\Debug\OrderMigration.exe
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\OrderMigration\OrderMigration\bin\Debug\OrderMigration.pdb
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\OrderMigration\OrderMigration\bin\Debug\OrderMigration.xml
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\OrderMigration\OrderMigration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\OrderMigration\OrderMigration\obj\x86\Debug\OrderMigration.Resources.resources
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\OrderMigration\OrderMigration\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\OrderMigration\OrderMigration\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\OrderMigration\OrderMigration\obj\x86\Debug\OrderMigration.exe
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\OrderMigration\OrderMigration\obj\x86\Debug\OrderMigration.xml
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\OrderMigration\OrderMigration\obj\x86\Debug\OrderMigration.pdb

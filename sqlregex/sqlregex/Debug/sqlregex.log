@@ -1,0 +1,34 @@
+﻿Build started 3/22/2012 12:40:55 PM.
+     1>Project "c:\documents and settings\dustinmiller\my documents\visual studio 2010\Projects\sqlregex\sqlregex\sqlregex.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\sqlregex.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\sqlregex.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\sqlregex.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp sqlregex.cpp /clr:nostdlib 
+         AssemblyInfo.cpp
+         sqlregex.cpp
+     1>sqlregex.cpp(10): error C3379: 'SQLRegEx::RegExRow' : a nested class cannot have an assembly access specifier as part of its declaration
+     1>sqlregex.cpp(18): error C2144: syntax error : 'SQLRegEx::RegExRow' should be preceded by ':'
+     1>sqlregex.cpp(18): error C2061: syntax error : identifier 'string'
+     1>sqlregex.cpp(26): error C2144: syntax error : 'int' should be preceded by ':'
+     1>sqlregex.cpp(27): error C2144: syntax error : 'int' should be preceded by ':'
+     1>sqlregex.cpp(28): error C2144: syntax error : 'int' should be preceded by ':'
+     1>sqlregex.cpp(29): error C2146: syntax error : missing ':' before identifier 'string'
+     1>sqlregex.cpp(29): error C2146: syntax error : missing ';' before identifier 'Value'
+     1>sqlregex.cpp(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>sqlregex.cpp(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>sqlregex.cpp(40): error C2059: syntax error : '['
+     1>sqlregex.cpp(42): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+     1>sqlregex.cpp(65): error C2337: 'SqlFunction' : attribute not found
+     1>sqlregex.cpp(66): error C2059: syntax error : 'public'
+     1>sqlregex.cpp(67): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+     1>sqlregex.cpp(89): error C2144: syntax error : 'void' should be preceded by ':'
+     1>sqlregex.cpp(89): error C2061: syntax error : identifier 'out'
+     1>sqlregex.cpp(98): fatal error C1004: unexpected end-of-file found
+         Generating Code...
+     1>Done Building Project "c:\documents and settings\dustinmiller\my documents\visual studio 2010\Projects\sqlregex\sqlregex\sqlregex.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.53
